@@ -20,7 +20,7 @@ body{
     grid-template-columns: 50% 50%;
 }
 .container__botao{
-    background-color:black;
+    background-color:blue;
     border-radius: 5px;
     padding: 1em;
     color: var(--branco-principal);
